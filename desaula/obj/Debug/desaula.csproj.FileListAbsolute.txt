@@ -1,6 +1,6 @@
 C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\desaula\desaula\bin\Debug\desaula.exe.config
-C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\desaula\desaula\obj\Debug\desaula.csprojResolveAssemblyReference.cache
 C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\desaula\desaula\bin\Debug\desaula.exe
 C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\desaula\desaula\bin\Debug\desaula.pdb
 C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\desaula\desaula\obj\Debug\desaula.exe
 C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\desaula\desaula\obj\Debug\desaula.pdb
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\desaula\desaula\obj\Debug\desaula.csprojResolveAssemblyReference.cache

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace desaula
 {
-    class menu : atendimento
+    class menu 
     {
         string op = "";
         atendimento obj = new atendimento();
@@ -23,7 +23,7 @@ namespace desaula
                 switch (op)
                 {
                     case "1":
-                        obj.registrar();
+                        obj.cadastro();
                         break;
                     case "2":
                         break;

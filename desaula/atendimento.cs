@@ -8,15 +8,16 @@ namespace desaula
 {
     class atendimento
     {
-        public string nome, cpf, sexo, prioridade;
-        atendimento[] lista = new atendimento[9];
+        pessoa[] lista = new pessoa[10];
 
-
-        public void registrar()
+        public void cadastro()
         {
             Console.WriteLine("Nome do Paciente:");
-           nome = Console.ReadLine();
-            lista[0] = nome;
+
+            lista[0] = new pessoa();
+            lista[0].nome = Console.ReadLine();
+            Console.WriteLine("cpf do paciente");
+            lista[0].cpf = Console.ReadLine();
         }
     }
 }
