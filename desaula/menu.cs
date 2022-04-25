@@ -32,7 +32,6 @@ namespace desaula
                     case "4":
                         break;
                 }
-
             } while (op != "q");
         }
     }

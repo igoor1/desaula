@@ -12,12 +12,16 @@ namespace desaula
 
         public void cadastro()
         {
-            Console.WriteLine("Nome do Paciente:");
-
-            lista[0] = new pessoa();
-            lista[0].nome = Console.ReadLine();
-            Console.WriteLine("cpf do paciente");
-            lista[0].cpf = Console.ReadLine();
+           for(int i=0; i < 10; i++)
+            {
+                Console.WriteLine("Nome do Paciente:");
+                lista[i] = new pessoa();
+                lista[i].nome = Console.ReadLine();
+                Console.WriteLine("cpf do paciente");
+                lista[i].cpf = Console.ReadLine();
+                Console.WriteLine("sexo do paciente");
+                lista[i].sexo = Console.ReadLine();
+            }
         }
     }
 }
